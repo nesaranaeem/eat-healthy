@@ -1,0 +1,39 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  font-size: 60px;
+  line-height: 130%;
+  font-weight: 800;
+  text-align: left;
+}
+p {
+  color: #828282;
+  padding-bottom: 20px;
+}
+.banner-flex-container {
+  display: flex;
+}
+.banner-text-area {
+  padding-top: 100px;
+  padding-left: 40px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(#fba24f, #ff1e1e);
+  color: #ffffff;
+  padding: 10px 20px;
+
+  border-radius: 100px;
+}
+.half-width {
+  width: 50%;
+}
+
+.orange {
+  color: orange;
+}
+.main-banner-image {
+}
